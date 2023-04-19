@@ -1,2 +1,3 @@
-# oop-studies-java
+## oop-studies-java
+
 Object oriented programming studies in Java
